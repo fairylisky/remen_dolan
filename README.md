@@ -1,34 +1,35 @@
-# remen_dolan
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
 # Remen Dolan 
 
-Aplikasi mobile wisata budaya Yogyakarta berbasis Flutter yang membantu pengguna menjelajahi destinasi wisata budaya, alam, dan religi di Yogyakarta dengan cara yang interaktif dan edukatif.
+## Deskripsi Aplikasi
 
-## Fitur Utama
+Remen Dolan adalah aplikasi mobile berbasis Flutter yang dirancang sebagai media pengenalan tempat wisata di Daerah Istimewa Yogyakarta. Aplikasi ini menyajikan informasi lengkap tentang berbagai destinasi wisata di DIY mencakup Kota Yogyakarta, Kabupaten Sleman, Bantul, Gunungkidul, dan Kulonprogo.
+
+Aplikasi ini ditujukan untuk dua segmen pengguna utama:
+- **Wisatawan** yang ingin merencanakan kunjungan ke Yogyakarta dan membutuhkan referensi destinasi wisata.
+- **Pelajar dan mahasiswa** yang ingin mengenal kekayaan budaya dan alam DIY secara interaktif.
+
+Aplikasi digunakan dengan cara membuka halaman utama, memilih kategori atau tempat wisata yang diinginkan, membaca informasi lengkap pada halaman detail, kemudian mengerjakan kuis untuk menguji pemahaman. Hasil kuis ditampilkan secara langsung dengan feedback yang memotivasi pengguna.
+
+##  Fitur Utama
 
 - **Eksplorasi Destinasi** — Jelajahi wisata budaya, alam, dan religi Yogyakarta lengkap dengan artikel, info, dan galeri foto
-- **Quiz Interaktif** — Uji pengetahuan tentang wisata Yogyakarta dengan sistem level dan poin
+- **Quiz Interaktif** — Uji pengetahuan tentang wisata Yogyakarta dengan total **12 level quiz** yang dibagi berdasarkan jenis wisata:
+  - Wisata Budaya — 5 Level
+  - Wisata Religi — 3 Level
+  - Wisata Alam — 4 Level
+- **Sistem XP & Level** — Setiap quiz yang diselesaikan memberikan poin XP untuk naik level sebagai Explorer
 - **Learning Path** — Pantau progres belajar dan lanjutkan quiz dari terakhir kali
 - **Favorit & Bookmark** — Simpan destinasi favorit dan artikel yang menarik
 - **Peta Wisata** — Temukan lokasi destinasi wisata secara visual
-- **Profil Pengguna** — Sistem XP dan level untuk pengalaman belajar yang menyenangkan
+- **Profil Pengguna** — Tampilkan statistik progress belajar, tempat favorit, dan artikel tersimpan
+
+## Sistem Gamifikasi
+
+Remen Dolan menggunakan sistem gamifikasi untuk meningkatkan pengalaman belajar pengguna:
+- **XP (Experience Points)** — Didapat setiap menyelesaikan quiz
+- **Level Explorer** — Semakin banyak quiz diselesaikan, semakin tinggi level pengguna
+- **Akurasi Quiz** — Persentase jawaban benar dipantau per kategori wisata
+- **Progress Per Kategori** — Setiap jenis wisata memiliki jalur level tersendiri yang harus diselesaikan secara bertahap
 
 ## Teknologi
 
@@ -36,10 +37,6 @@ Aplikasi mobile wisata budaya Yogyakarta berbasis Flutter yang membantu pengguna
 - Provider (State Management)
 - Google Fonts
 - Google Maps
-
-## Tampilan
-
-Aplikasi ini menampilkan antarmuka yang elegan dengan perpaduan warna hangat khas budaya Jawa, menggunakan font Playfair Display dan Poppins untuk kesan modern namun tetap tradisional.
 
 ## Cara Menjalankan
 
