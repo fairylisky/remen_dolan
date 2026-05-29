@@ -14,9 +14,9 @@ Aplikasi digunakan dengan cara membuka halaman utama, memilih kategori atau temp
 
 - **Eksplorasi Destinasi** — Jelajahi wisata budaya, alam, dan religi Yogyakarta lengkap dengan artikel, info, dan galeri foto
 - **Quiz Interaktif** — Uji pengetahuan tentang wisata Yogyakarta dengan total **12 level quiz** yang dibagi berdasarkan jenis wisata:
-  - Wisata Budaya — 5 Level
-  - Wisata Religi — 3 Level
-  - Wisata Alam — 4 Level
+  - Wisata Budaya = 5 Level
+  - Wisata Religi = 3 Level
+  - Wisata Alam = 4 Level
 - **Sistem XP & Level** — Setiap quiz yang diselesaikan memberikan poin XP untuk naik level sebagai Explorer
 - **Learning Path** — Pantau progres belajar dan lanjutkan quiz dari terakhir kali
 - **Favorit & Bookmark** — Simpan destinasi favorit dan artikel yang menarik
